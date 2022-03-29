@@ -14,8 +14,8 @@ git commit -m "add README to initial commit"
 git remote add origin https://github.com/danielpascual/my-repo/edit/master/.git
 ## Enviar cambios a github.
 git push --set-upstream origin main
-[![ACT2-PART-1.png](https://i.postimg.cc/fymfPjNG/ACT2-PART-1.png)](https://postimg.cc/9wX9R9zb)
-[![ACT1-PART-2-2.png](https://i.postimg.cc/Y2R96LY0/ACT1-PART-2-2.png)](https://postimg.cc/7bCwD6Br)
+[![ACT2-PART-1.png](https://i.postimg.cc/SNbM8xcX/firstimageent.jpg)](https://postimg.cc/SjVRbqTq)
+[![ACT1-PART-2-2.png](https://i.postimg.cc/j5L768xv/secondimageent.jpg)](https://postimg.cc/Q9ZChJWW)
 
 # Contribuir a una rama existente en GitHub (EJERCICIO 3)
 
